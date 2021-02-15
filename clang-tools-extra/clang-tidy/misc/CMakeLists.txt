@@ -8,6 +8,7 @@ add_clang_library(clangTidyMiscModule
   MiscTidyModule.cpp
   MisplacedConstCheck.cpp
   NewDeleteOverloadsCheck.cpp
+  NoKeyFunctionCheck.cpp
   NoRecursionCheck.cpp
   NonCopyableObjects.cpp
   NonPrivateMemberVariablesInClassesCheck.cpp
